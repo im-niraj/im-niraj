@@ -31,7 +31,11 @@ Tech stack
 - MySql, SQL query
 - HTML, CSS, Java Script
 
-
+<div>
+<img width="60px" height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/7zip.svg"/>
+<img width="60px" height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/7zip.svg"/>
+<img width="60px" height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/7zip.svg"/>
+</div>
 
 
 Deployed Links

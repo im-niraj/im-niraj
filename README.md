@@ -26,11 +26,9 @@ Tech stack
 - Core Java
 - JSON
 - RESTfull APIs
-- MySql, SQL query
-- Spring Boot
 - Swagger
 - Git
-
+- MySql, SQL query
 - HTML, CSS, Java Script
 
 

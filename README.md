@@ -24,11 +24,13 @@ Tech stack
 - Moven 
 - Hibernate
 - Core Java
+- JSON
+- RESTfull APIs
 - MySql, SQL query
 - Spring Boot
 - Swagger
 - Git
-- JSON
+
 - HTML, CSS, Java Script
 
 

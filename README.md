@@ -32,9 +32,14 @@ Tech stack
 - HTML, CSS, Java Script
 
 <div>
-<img width="60px" height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/7zip.svg"/>
-<img width="60px" height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/7zip.svg"/>
-<img width="60px" height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/7zip.svg"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/java-icon.svg"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/spring.png"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/hibernate.svg"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/MySQL.png"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/postman.svg"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/js.svg"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/html.svg"/>
+<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/css.svg"/>
 </div>
 
 

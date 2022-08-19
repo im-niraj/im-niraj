@@ -15,7 +15,16 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web applications and RESTful APIs using MicroServices, with demonstrable production-scale experience. Collaborate and communicate within distributed project teams to get desired outcomes. I am eager to be challenged in order to grow and further improve my IT skills.
 
+
+
+
+Reach out to me
+---
+
 - Portfolio : [nirajkumar.in](https://www.nirajkumar.in)
+- Email : [n1r4jkumar@gmail.com](mailto:n1r4jkumar@gmail.com)
+- Linkedin : [imniraj](https://www.linkedin.com/in/imniraj/)
+
 
 
 Tech stack
@@ -45,6 +54,7 @@ Tech stack
 
 Deployed Links
 ---
+- [OnlineFoodOrder_WebService](https://github.com/roshan93190/Online_Food_Application)  :  collaborative project
 - [SugerCosmetics.com](https://melodic-malabi-d69a87.netlify.app/)  :  collaborative project
 - [InstaCart.com](https://glowing-kashata-fe5a26.netlify.app/)  :  collaborative project
 - [Vitrual-McDonald](https://mcdonand-s.netlify.app/)

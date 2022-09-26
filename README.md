@@ -1,7 +1,7 @@
 ![Niraj Kumar](https://github.com/im-niraj/im-niraj/blob/master/Screenshot%202022-06-29%20at%208.37.01%20PM.png?raw=true)
 
 
-<h1 align="center">Hi, I'm Niraj Kumar 👋🧑🏻‍💻</h1>
+<h1 align="center">Hi, I'm Niraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 🧑🏻‍💻</h1>
 
 
 
@@ -31,13 +31,14 @@ Reach out to me
 
 Tech stack
 ---
-- Spring Book, Spring Framework
+- Spring Boot, Spring Framework
 - Moven 
 - Hibernate
 - Core Java
 - JSON
 - RESTfull APIs
-- Swagger
+- Swagger-ui
+- Thymeleaf template engine
 - Git
 - MySql, SQL query
 - HTML, CSS, Java Script
@@ -48,9 +49,12 @@ Tech stack
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/hibernate.svg"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/MySQL.png"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/postman.svg"/>
+<img width="60px" heigth="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
+<img width="60px" height="60px" src="https://www.thymeleaf.org/images/thymeleaf.png"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/js.svg"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/html.svg"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/css.svg"/>
+
 </div>
 
 
@@ -68,5 +72,15 @@ Deployed Links
 
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=im-niraj)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-niraj&show_icons=true&locale=en&layout=compact&theme=tokyonight"alt="nirajkumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-niraj&show_icons=true&locale=en&theme=tokyonight" alt="nirajkumar"/></p>
+<br/>
+
+<a href="https://github.com/im-niraj/github-readme-activity-graph"><img alt="Niraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=im-niraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
 

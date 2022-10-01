@@ -32,7 +32,7 @@ Reach out to me
 Tech stack
 ---
 - Spring Boot, Spring Framework
-- Moven 
+- Maven 
 - Hibernate
 - Core Java
 - JSON

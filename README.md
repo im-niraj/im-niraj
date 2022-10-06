@@ -41,7 +41,7 @@ Tech stack
 - Swagger-ui
 - Thymeleaf template engine
 - Git
-- MySql, SQL query
+- MySql, SQL query, H2 Database
 - HTML, CSS, Java Script
 
 <div>

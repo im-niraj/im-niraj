@@ -48,7 +48,8 @@ Tech stack
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/java-icon.svg"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/spring.png"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/hibernate.svg"/>
-<img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/MySQL.png"/>
+<img width="80px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/MySQL.png"/>
+<img width="80px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/h2.png"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/postman.svg"/>
 <img width="60px" heigth="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
 <img width="60px" height="60px" src="https://www.thymeleaf.org/images/thymeleaf.png"/>

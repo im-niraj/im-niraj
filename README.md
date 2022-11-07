@@ -67,11 +67,11 @@ Deployed Links
 - [OnlineFoodOrder_WebService](https://github.com/roshan93190/Online_Food_Application)  :  collaborative project
 - [SugerCosmetics.com](https://melodic-malabi-d69a87.netlify.app/)  :  collaborative project
 - [InstaCart.com](https://glowing-kashata-fe5a26.netlify.app/)  :  collaborative project
-- [Vitrual-McDonald](https://mcdonand-s.netlify.app/)
-- [TranslateApp](https://lighthearted-blancmange-371c59.netlify.app/)
-- [HostarMini](https://celadon-melomakarona-5432da.netlify.app/)
-- [Portfolio](https://www.nirajkumar.in)
-- [Portfolio_Project_Grid](https://portfolio-project-niraj.netlify.app/)
+- [Vitrual-McDonald](https://mcdonand-s.netlify.app/)  :  Solo Project
+- [TranslateApp](https://lighthearted-blancmange-371c59.netlify.app/)  :  Solo Project
+- [HostarMini](https://celadon-melomakarona-5432da.netlify.app/)  :  Solo Project
+- [Portfolio](https://www.nirajkumar.in)  :  Solo Project
+- [Portfolio_Project_Grid](https://portfolio-project-niraj.netlify.app/)  :  Solo Project
 
 
 

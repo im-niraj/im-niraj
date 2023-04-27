@@ -32,27 +32,133 @@ Reach out to me
 
 Tech stack
 ---
-- NodeJS
-- ReactJS
-- ExpressJS
-- MongoDB
-- Firebase
-- TypeScript
-- Redux
-- ChakraUI
-- MaterialUI
-- Tailwind CSS
-- Spring Boot, Spring Framework
-- Maven 
-- Hibernate
-- Core Java
-- JSON
-- RESTfull APIs
-- Swagger-ui
-- Thymeleaf template engine
-- Git
-- MySql, SQL query, H2 Database
-- HTML, CSS, Java Script
+<table>
+  <thead>
+    <tr>
+      <th>FrontEnd</th>
+      <th>BackEnd</th>
+      <th>Others</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        ReactJS
+      </td>
+      <td>
+        NodeJS
+      </td>
+      <td>
+        Googling
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Redux
+      </td>
+      <td>
+        Express
+      </td>
+      <td>
+        Java
+      </td>
+    </tr>
+    <tr>
+      <td>
+        NextJS
+      </td>
+      <td>
+        MongoDB
+      </td>
+      <td>
+        SQLite
+      </td>
+    </tr>
+    <tr>
+      <td>
+        TypeScript
+      </td>
+      <td>
+        MySQL
+      </td>
+      <td>
+        React Native
+      </td>
+    </tr>
+    <tr>
+      <td>
+        HTML
+      </td>
+      <td>
+        Firebase
+      </td>
+      <td>
+        Git
+      </td>
+    </tr>
+    <tr>
+      <td>
+        CSS
+      </td>
+      <td>
+        SpringBoot
+      </td>
+      <td>
+        Vercel
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Javascript
+      </td>
+      <td>
+        Spring
+      </td>
+      <td>
+        Netlify
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Bootstrap
+      </td>
+      <td>
+        ThymeLeaf
+      </td>
+      <td>
+        GitHub
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ChakraUI
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Tailwind CSS
+      </td>
+       <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Material UI
+      </td>
+       <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+ </table>
+
 
 <div>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/java-icon.svg"/>

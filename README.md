@@ -1,4 +1,4 @@
-![Niraj Kumar](https://github.com/im-niraj/im-niraj/blob/master/Screenshot%202022-06-29%20at%208.37.01%20PM.png?raw=true)
+![Niraj Kumar](https://raw.githubusercontent.com/im-niraj/im-niraj/master/github%20banner.png)
 
 
 <h1 align="center">Hi, I'm Niraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 🧑🏻‍💻</h1>
@@ -32,11 +32,20 @@ Reach out to me
 
 Tech stack
 ---
+- NodeJS
+- ReactJS
+- ExpressJS
+- MongoDB
+- Firebase
+- TypeScript
+- Redux
+- ChakraUI
+- MaterialUI
+- Tailwind CSS
 - Spring Boot, Spring Framework
 - Maven 
 - Hibernate
 - Core Java
-- ReactJS, NodeJS, ExpressJS
 - JSON
 - RESTfull APIs
 - Swagger-ui
@@ -82,7 +91,7 @@ Deployed Links
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-niraj&show_icons=true&locale=en&theme=tokyonight" alt="nirajkumar"/></p>
 <br/>
 
-<a href="https://github.com/im-niraj/github-readme-activity-graph"><img alt="Niraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=im-niraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/im-niraj/github-readme-activity-graph"><img alt="Niraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=im-niraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 
 

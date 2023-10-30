@@ -25,7 +25,7 @@ Reach out to me
 ---
 
 - Portfolio : [nirajkumar.in](https://www.nirajkumar.in)
-- Email : [n1r4jkumar@gmail.com](mailto:n1r4jkumar@gmail.com)
+- Email : [n1r4jkumar@gmail.com](mailto:nirajkumar.nxt@gmail.com)
 - Linkedin : [imniraj](https://www.linkedin.com/in/imniraj/)
 
 

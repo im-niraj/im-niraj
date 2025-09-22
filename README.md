@@ -15,18 +15,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 I'm a Full Stack Developer. Strong knowledge in developing enterprise-level web applications and RESTful APIs using MicroServices, with demonstrable production-scale experience. Collaborate and communicate within distributed project teams to get desired outcomes. I am eager to be challenged in order to grow and further improve my IT skills.
 
-- [Resume](https://drive.google.com/file/d/1cGJVoKuHwTJkNrNQH0rX268G4Wsx9Is5/view)
-- [LeetCode](https://leetcode.com/im-niraj/)
 
-![](https://leetcard.jacoblin.cool/im-niraj)
-
-
-Reach out to me
----
-
-- Portfolio : [nirajkumar.in](https://www.nirajkumar.in)
-- Email : [nirajkumar.nxt@gmail.com](mailto:nirajkumar.nxt@gmail.com)
-- Linkedin : [imniraj](https://www.linkedin.com/in/imniraj/)
 
 
 

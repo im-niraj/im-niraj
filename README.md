@@ -1,84 +1,89 @@
-# 👋 Hi, I'm Niraj Kumar
+# Hi there 👋 I'm Niraj Kumar
 
-🚀 AI Developer | Full Stack Engineer | Building Scalable SaaS
+### Senior Software Engineer | Full-Stack Developer | AI Applications | SaaS Architecture
 
----
+I build scalable web applications, AI-powered products, and backend systems that solve real business problems.
 
-## 🧠 About Me
-
-I’m a developer focused on building **real-world AI applications** and scalable backend systems.
-Currently working on **AI-powered SaaS tools**, automation systems, and modern web applications.
-
-I enjoy turning ideas into **production-ready products** — from UI to backend to deployment.
+With 6+ years of experience, I specialize in designing modern full-stack applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and AWS while integrating LLMs and automation into production software.
 
 ---
 
-## ⚡ What I’m Working On
+## 🚀 What I Do
 
-* 🤖 AI Chatbot Platforms (Lead Management, Automation)
-* 📊 SaaS Dashboards & CRM Systems
-* 🔗 API Integrations & Backend Systems
-* ☁️ Cloud Deployments (AWS, VPS, Serverless)
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**
-
-* JavaScript (Node.js), Python
-
-**Frontend:**
-
-* React, Next.js
-
-**Backend & APIs:**
-
-* Express.js, REST APIs
-
-**AI & Tools:**
-
-* OpenAI API, LangChain, LLM Apps
-
-**Database:**
-
-* PostgreSQL, Supabase
-
-**DevOps & Cloud:**
-
-* Docker, AWS, Vercel, Railway
+* 🤖 Build AI-powered SaaS applications
+* ⚡ Design scalable backend architectures & REST APIs
+* 🏗️ Develop enterprise-grade web platforms
+* 🔄 Automate business workflows using LLMs
+* ☁️ Deploy cloud-native applications with Docker & AWS
+* 📈 Optimize performance, scalability, and developer experience
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack
 
-### 🔹 AI Chatbot SaaS
+### Frontend
 
-Multi-tenant chatbot platform with automation, lead tracking, and real-time conversations.
+React.js • Next.js • Angular • TypeScript • JavaScript • Tailwind CSS • Flutter
 
-### 🔹 Document AI (RAG System)
+### Backend
 
-Upload PDFs → Ask questions → Get intelligent answers using embeddings.
+Node.js • Express.js • NestJS • REST APIs • GraphQL • WebSockets • Microservices
 
-### 🔹 AI Automation Tools
+### Database
 
-Automated workflows for handling leads, responses, and business processes.
+PostgreSQL • MongoDB • Prisma ORM • Redis • SQL
 
----
+### AI & Automation
 
-## 📈 Goals
+OpenAI API • AI Chatbots • OCR • Prompt Engineering • Workflow Automation • RAG
 
-* Build impactful AI products used by real businesses
-* Scale SaaS applications to production level
-* Continuously improve system design & architecture
+### Cloud & DevOps
 
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [nxniraj](https://linkedin.com/in/nxniraj)
-* 🌐 Portfolio: [nirajkumar.in](https://nirajkumar.in)
+AWS • Docker • GitHub Actions • CI/CD • Nginx • Linux
 
 ---
 
-⚡ *Focused on building, not just learning.*
+## 🌟 Featured Projects
+
+### 🤖 AI Document Processing Platform
+
+OCR + LLM-powered document extraction, search, and automation.
+
+### 🛒 Grocery Commerce Platform
+
+Enterprise grocery ecosystem with rewards, admin panel, delivery management, and Flutter app.
+
+### 🌿 Passion Farms Marketplace
+
+Multi-tenant marketplace for hemp & cannabis businesses built with React, NestJS, PostgreSQL, and AWS.
+
+### 👗 AnyaTrends
+
+Production-ready fashion e-commerce platform with Next.js, Cloudflare R2, Supabase, and SEO optimization.
+
+---
+
+## 📈 Current Focus
+
+* AI Agents
+* OpenAI Integrations
+* SaaS Architecture
+* Microservices
+* System Design
+* High-performance Backend Development
+
+---
+
+## 🌐 Connect With Me
+
+🌍 Portfolio: https://nirajkumar.in
+
+💼 LinkedIn:
+https://linkedin.com/in/niraj-kumar-dev
+
+📧 Email:
+[me@nirajkumar.in](mailto:me@nirajkumar.in)
+
+---
+
+> "Great software isn't just about writing code—it's about solving real business problems with scalable engineering."
